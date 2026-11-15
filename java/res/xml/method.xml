@@ -808,6 +808,15 @@
     />
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
             android:label="@string/subtype_generic"
+            android:subtypeId="0x6d7e49ab"
+            android:imeSubtypeLocale="udm"
+            android:languageTag="udm"
+            android:imeSubtypeMode="keyboard"
+            android:imeSubtypeExtraValue="KeyboardLayoutSet=udmurt,EmojiCapable"
+            android:isAsciiCapable="false"
+    />
+    <subtype android:icon="@drawable/ic_ime_switcher_dark"
+            android:label="@string/subtype_generic"
             android:subtypeId="0x3e84492c"
             android:imeSubtypeLocale="uk"
             android:imeSubtypeMode="keyboard"
